@@ -13,3 +13,5 @@ Currently, I'm seeking oppurunities in the Web Design or Game Design fields, but
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/OrangeWiz)](https://github.com/OrangeWiz) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkr9/)](https://www.linkedin.com/in/gkr9/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gopi.rayini@gmail.com)](mailto:gopi.rayini@gmail.com)
+
+<!--[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=OrangeWiz&count_private=true&include_all_commits=true&theme=radical)](https://google.com)-->
