@@ -1,6 +1,6 @@
 # WELCOME!
 
-Hello, I'm Gopi an senior ITI major at Rutgers Universty focusing in the areas of Web Design, Game Design, and Cyber Security. Feel free to checkout some of my projects here!
+Hello, I'm Gopi an senior ITI major at Rutgers Universty focusing in the areas of Web Development and Game Development. Feel free to checkout some of my projects here!
   
 I am a person who loves to explore! From places in the world to new concepts, I always have a nature of curiousity that only stops once I gain understanding of it. Otherwise, I'm always available to have a chat about complex ideas in psychology or technology.
 
