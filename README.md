@@ -7,6 +7,7 @@ I am a person who loves to explore! From places in the world to new concepts, I 
 Currently, I'm seeking oppurunities in the Web Dev field, but I'm willing to explore any opportunities I can!
 
 #### 🌱 I am currently learning:
+- C#
 - Unity
 
 #### 📫 How to reach me:
