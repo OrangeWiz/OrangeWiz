@@ -4,7 +4,7 @@ Hello, I'm Gopi an senior ITI major at Rutgers Universty focusing in the areas o
   
 I am a person who loves to explore! From places in the world to new concepts, I always have a nature of curiousity that only stops once I gain understanding of it. Otherwise, I'm always available to have a chat about complex ideas in psychology or technology.
 
-Currently, I'm seeking oppurunities in the Web Design or Game Design fields, but I'm willing to explore any opportunities I can!
+Currently, I'm seeking oppurunities in the Web Dev field, but I'm willing to explore any opportunities I can!
 
 #### 🌱 I am currently learning:
 - Unity
