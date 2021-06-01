@@ -4,13 +4,12 @@ Hello, I'm Gopi, a recent graduated ITI student from Rutgers Universty! During m
 
 # About Me
 
-I am a person who loves to explore! From places in the world to new concepts, I always have a nature of curiousity that only stops once I gain understanding of it. Otherwise, I'm always available to have a chat about complex ideas in psychology or technology.
+I am a person who loves to explore! From places in the world to new concepts, I always have a nature of curiousity that only stops once I gain a full understanding of that concept. If you'd like to have a chat about anything relating to my areas of study, I would be more than thrilled to have a conversation!
 
-Currently, I'm seeking oppurunities in the Web Dev field, but I'm willing to explore any opportunities I can!
+Currently, I'm seeking oppurunities in the Web Dev field, but I'm willing to explore any opportunities that come my way.
 
 #### 🌱 I am currently learning:
-- C#
-- Unity
+- React.js
 
 #### 📫 How to reach me:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/OrangeWiz)](https://github.com/OrangeWiz) 
