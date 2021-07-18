@@ -9,7 +9,7 @@ I am a person who loves to explore! From places in the world to new concepts, I 
 Currently, I'm seeking oppurunities in the Web Dev field, but I'm willing to explore any opportunities that come my way.
 
 #### 🌱 I am currently learning:
-- React.js
+- Salesforce
 
 #### 📫 How to reach me:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/OrangeWiz)](https://github.com/OrangeWiz) 
