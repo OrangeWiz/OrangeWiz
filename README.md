@@ -1,6 +1,6 @@
 # WELCOME!
 
-Hello, I'm Gopi, a recent graduated ITI student from Rutgers Universty! During my time at Rutgers, I was mainly focusing my study in the areas of Web Development and Game Development. Feel free to checkout some of my projects here!
+Hello, I'm Gopi, a recent graduated ITI student from Rutgers Universty! During my time at Rutgers, I was mainly focusing my study in the areas of Web Development and Game Development. After graduating, I have been exploring opportunities in the Salesforce ecosystem. Feel free to checkout some of my projects here!
 
 # About Me
 
