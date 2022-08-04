@@ -1,16 +1,20 @@
 # WELCOME!
 
-Hello, I'm Gopi, a recent graduated ITI student from Rutgers Universty! During my time at Rutgers, I was mainly focusing my study in the areas of Web Development and Game Development. After graduating, I have been exploring opportunities in the Salesforce ecosystem. Feel free to checkout some of my projects here!
+Hello, I'm Gopi! Welcome to my personal GitHub where I create projects to learn new things and implement my learnings.
 
 # About Me
 
-I am a person who loves to explore! From places in the world to new concepts, I always have a nature of curiousity that only stops once I gain a full understanding of that concept. If you'd like to have a chat about anything relating to my areas of study, I would be more than thrilled to have a conversation!
+Here are a few things that I believe define my core personality:
+- Competitive
+- Passionate
+- Self-Developing
+- Simplistic
 
-Currently, I'm seeking oppurunities in the Salesforce field, but I'm willing to explore any opportunities that come my way.
+Currently, I'm seeking oppurunities as a Software Engineer 
 
 #### 🌱 I am currently learning:
-- Salesforce Platform Developer I
-- Salesforce JavaScript Developer
+- Jupyter
+- Solidity
 
 #### 📫 How to reach me:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/OrangeWiz)](https://github.com/OrangeWiz) 
