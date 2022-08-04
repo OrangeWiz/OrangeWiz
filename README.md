@@ -10,7 +10,7 @@ Here are a few things that I believe define my core personality:
 - Self-Developing
 - Simplistic
 
-Currently, I'm seeking oppurunities as a Software Engineer 
+I believe a good competitive environment can help me bring out my best performace. As a former captain for the Rutgers Valorant team, I realized that not only did I enjoy competing, but it was necessary for the team's growth in performance. I'm really passionate about creating code that can have an impact inside the industry and will strive to improve it using the latest technologies. I'm simplistic in my approaches to solve problems, but I also take time to reflect on whether it was the correct approach. I hope you were able to gain a bit more insight about me! Please feel free to connect with me if you'd like to chat!
 
 #### 🌱 I am currently learning:
 - Jupyter
